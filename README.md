@@ -9,7 +9,7 @@
 - 👯 I’m looking to contribute on an open source project in the field of machine learning or artificial intelligence
 - 🤔 I’m looking for help with my machine learning path
 - 📫 How to reach me: -	:incoming_envelope: patrick.georges18@gmail.com <br>
-                        [LINKEDIN](linkedin.com/in/patrick-georges)
+                        </t></t>[LINKEDIN](linkedin.com/in/patrick-georges)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have good culinary skills 😄
 
