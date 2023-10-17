@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning machine learning and software engineering. 
 - 👯 I’m looking to contribute on an open source project in the field of machine learning or artificial intelligence
 - 🤔 I’m looking for help with my machine learning path
+- 💻 I'm looking to land my first internship in the software industry
 - 📫 How to reach me: -	:incoming_envelope: patrick.georges18@gmail.com <br>
                         </t></t>[LINKEDIN](linkedin.com/in/patrick-georges)
 - 😄 Pronouns: He/Him
