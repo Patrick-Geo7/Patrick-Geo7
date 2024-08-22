@@ -10,6 +10,8 @@
 
 I am an undergraduate student pursuing a Bachelor of Engineering in Computer and Systems Engineering at Alexandria University. My passion lies in Software Engineering, where I am keen to apply emerging technologies and contribute to innovative projects. With a strong foundation in Java, C/C++, and Python, I have honed my problem-solving skills through academic projects and participation in coding competitions like ECPC.
 
+Currently, I am working on developing a **Breast Cancer Detection Model**. This project leverages deep learning techniques to identify malignant and benign tumors, with the potential to make a significant impact in the field of medical diagnostics.
+
 ---
 
 ### 🎓 Education
@@ -31,6 +33,10 @@ I am an undergraduate student pursuing a Bachelor of Engineering in Computer and
 
 ### 📈 Projects
 
+#### **Breast Cancer Detection Model**
+*Python, TensorFlow, Deep Learning*  
+Developing a state-of-the-art deep learning model aimed at accurately classifying breast cancer tumors as malignant or benign. This project involves extensive data preprocessing, model architecture design, and fine-tuning to achieve optimal performance. The ultimate goal is to assist in early detection and improve outcomes for patients.
+
 #### **Pet Adoption and Shelter Management System**
 *Java, SpringBoot, Angular*  
 Developed a full-stack web application with a REST API and Angular frontend. Managed database operations using Microsoft SQL Server and performed stress testing using JMeter.
@@ -42,10 +48,6 @@ Built a WebApp to facilitate academic registration for university students. Impl
 #### **PintOS**
 *C Programming Language*  
 Collaborated on the development of an educational operating system framework for the 80x86 architecture. Implemented system clock and thread scheduling, and worked on running user programs from the OS.
-
-#### **Game Engine**
-*JavaScript, Prolog, Scala*  
-Designed and implemented a game engine using object-oriented and functional programming paradigms. Developed a Sudoku solver using Prolog and applied backtracking and constraint satisfaction techniques.
 
 ---
 
@@ -71,4 +73,3 @@ Designed and implemented a game engine using object-oriented and functional prog
 ### 🤝 Let's Connect
 
 Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/patrick-georges) or [email](mailto:patrick.georges18@gmail.com). I'm always open to discussing new opportunities, collaborations, or simply exchanging ideas!
-
