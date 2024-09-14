@@ -65,6 +65,12 @@ Collaborated on the development of an educational operating system framework for
 ### 🏆 Certifications
 
 - **Machine Learning: Regression and Classification** – Coursera
+- **Deep Learning Specialization (Coursera)**
+  - [Neural Networks and Deep Learning](https://coursera.org/verify/4AH5SDGG3RDK)
+  - [Improving Deep Neural Networks](https://coursera.org/verify/5Z58DAPYERQL)
+  - [Structuring Machine Learning Projects](https://coursera.org/verify/RFTQTHHFWUD6)
+  - [Convolutional Neural Networks](https://coursera.org/verify/IOWWXRKG8T4C)
+  - [Sequence Models](https://coursera.org/verify/A4009EYIQUJK)
 - **ICPC Certificate of Achievement** (2022 & 2023) for participation in ECPC Qualifications
 - **D.A.L.F Niveau C1**
 
