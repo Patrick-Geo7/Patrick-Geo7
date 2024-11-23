@@ -1,7 +1,7 @@
 # Patrick Georges
 
 **Software Engineering Enthusiast | Undergraduate at Alexandria University**  
-27 Abd El Hamid Badawi St. Azarita, Alexandria, Egypt  
+Alexandria, Egypt  
 [Email](mailto:patrick.georges18@gmail.com) | [LinkedIn](https://linkedin.com/in/patrick-georges) | [GitHub](https://github.com/Patrick-Geo7)
 
 ---
