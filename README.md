@@ -1,162 +1,130 @@
-# Patrick Georges
+<h1 align="center">👋 Hi, I'm Patrick Georges</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4A90E2&center=true&width=800&lines=Software+Engineer+%7C+AI+Enthusiast;Deep+Learning+and+Systems+Lover;Let's+Build+Something+Great!" alt="Typing SVG" />
+</p>
 
-**Software Engineer | Deep Learning Enthusiast | Undergraduate at Alexandria University**  
-Alexandria, Egypt  
-
-[![Email](https://img.shields.io/badge/Email-patrick.georges18@gmail.com-blue?style=flat&logo=gmail)](mailto:patrick.georges18@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-patrick--georges-blue?style=flat&logo=linkedin)](https://linkedin.com/in/patrick-georges) 
-[![GitHub](https://img.shields.io/badge/GitHub-Patrick--Geo7-black?style=flat&logo=github)](https://github.com/Patrick-Geo7)
-
----
-
-## 👋 About Me
-
-I am an undergraduate student passionate about **AI-driven Software Engineering** and **Full-Stack Development**.  
-Currently working on a **Radiotherapy Dose Prediction Model** for cancer treatment planning using deep learning.
-
-📄 [View My Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 ---
 
-## 🖥️ Tech Stack
+## 📍 About Me
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+🎓 **Computer & Systems Engineering Student**  
+💻 **Alexandria University, Egypt** | Graduating **2025**  
+🔬 Passionate about Software Engineering, AI, and Systems Programming  
+🏆 Coding Competitions: **ECPC Participant (2022 & 2023)**
 
 ---
 
-## 📈 Featured Projects
+## 💼 Technical Stack
 
-### 🎯 [Radiotherapy Dose Prediction Model (Graduation Project)](https://github.com/Patrick-Geo7/Radiotherapy-Dose-Prediction)
-*PyTorch, Computer Vision, Transformers*  
-Deep Learning model predicting radiation dose for head and neck cancer treatment planning.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🩺 [Breast Cancer Detection Model](https://github.com/Patrick-Geo7/Breast-Cancer-Detection)
-*Python, TensorFlow, CNNs*  
-Multi-class CNN model for early breast cancer detection from histopathological images.
-
-### 🐾 [Pet Adoption & Shelter Management System](https://github.com/Patrick-Geo7/Pet-Adoption-System)
-*Java, Spring Boot, Angular*  
-Full-stack web app with REST APIs and database integration for managing animal shelters.
-
-### 📚 [EduServe Plus - University Registration WebApp](https://github.com/Patrick-Geo7/EduServe-Plus)
-*Java, Spring Boot, Angular*  
-Web platform for academic registration and student services.
-
-### 💻 [PintOS - Operating System Project](https://github.com/Patrick-Geo7/PintOS)
-*C Programming*  
-Educational operating system project focused on thread scheduling and user program execution.
+🧠 **Libraries & Tools**: NumPy, Pandas, Scikit-learn, Matplotlib, JUnit, Git, VS Code, PyCharm, IntelliJ
 
 ---
-## 💾 Useful Assignments & Mini Projects
+## 📄 My Resume
 
-While these tasks may not qualify as full-scale projects, they reflect my practical experience and continuous learning across various computer science domains.
+🎯 **[View / Download My Resume](https://drive.google.com/file/d/your_resume_link/view?usp=sharing)**
 
-### 🔧 Systems Programming, Compilers & Automata
-- **Lexical Analyzer Generator (C++)**  
-  Built a Lexical Analyzer from scratch using NFA/DFA and automata theory. Parsed regular expressions and tokenized input programs.
-- **Automata and State Classes Design (C++)**  
-  Designed modular `Automata.cpp` and `State.cpp` classes for compiler construction.
-- **OS Scheduler Simulation (C++)**  
-  Simulated various CPU scheduling algorithms such as Round Robin, SJF, and Priority Scheduling.
-- **Multi-threaded Web Crawler (Java)**  
-  Implemented a basic web crawler handling threads and synchronization.
+<p align="center">
+  <a href="https://drive.google.com/file/d/110Y2c0ou2tbwDSJSsynJa7w1gRy4WPgd/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/>
+  </a>
+</p>
 
-### 🔗 Blockchain & Computer Security
-- **Blockchain Proof-of-Work Puzzle (Java)**  
-  Implemented a simple hash-based Proof-of-Work puzzle validating transactions and simulating blockchain behavior.
-- **BlockNode and Blockchain Data Structures (Java)**  
-  Developed core classes managing blocks and transactions as part of blockchain fundamentals.
-
-### 📊 Machine Learning, NLP & Data Science
-- **Naive Bayes Sentiment Classifier (Python)**  
-  Built a sentiment analysis model using Naive Bayes on the Stanford Sentiment Treebank v2 (SST-2).
-- **Logistic Regression with Bi-gram Features (Python)**  
-  Implemented multinomial logistic regression using sparse vectors from bi-grams for sentiment classification.
-- **DenseNet121 for Breast Cancer Classification (Python, TensorFlow)**  
-  Designed and fine-tuned a deep learning model (DenseNet121) for histopathological image classification.
-- **ML Hyperparameter Tuning Assignment**  
-  Tuned learning rates, optimizers, and dropout rates to improve model accuracy based on research papers.
-
-### 🗄️ Databases & SQL
-- **University Database Schema Design (SQL)**  
-  Created entity-relationship diagrams and SQL queries for university academic management.
-
-### 📈 Digital Marketing & Analytics
-- **Google Merchandise Store A/B Test Proposal**  
-  Created a comprehensive A/B testing plan with KPIs and hypothesis testing for Udacity's Digital Marketing Nanodegree.
-- **Google Analytics Assignment**  
-  Analyzed user behavior and conversion metrics on the Google Merchandise Store demo account.
+✨ Feel free to check out my resume for detailed education, skills, certifications, and experiences.
 
 ---
 
-These assignments strengthened my skills in:  
-✅ Compilers & Automata Theory  
-✅ Operating Systems & Scheduling  
-✅ Blockchain & Cryptography Fundamentals  
-✅ Machine Learning & Deep Learning  
-✅ Natural Language Processing (NLP)  
-✅ Database Design & Querying  
-✅ RESTful APIs & Frontend Development  
-✅ Digital Marketing Analytics  
-✅ Multithreading & Synchronization
+## 📈 GitHub Stats
+
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-Geo7&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Geo7&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎓 Education
+## 🚀 Projects
 
-**B.Eng. in Computer and Systems Engineering**  
-*Alexandria University, Egypt*  
-**Sep 2021 – Aug 2025**
-
----
-
-## 🌱 Relevant Coursework
-
-- Software Engineering
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Machine Learning
-- Operating Systems
-- Computer Networks
-- Database Systems
+| 📝 Project | 🔧 Tech Stack | 📌 Highlights |
+|-----------|-------------|--------------|
+| **Breast Cancer Detection Model** | Python, TensorFlow | CNN, Transfer Learning (DenseNet121), Multi-Branch Decision Model |
+| **Pet Adoption & Shelter Management System** | Java, SpringBoot, Angular | Full-Stack, REST APIs, JMeter Stress Testing |
+| **EduServe Plus** | Java, Gradle, Angular | Academic Portal, Scrum, Course Enrollment |
+| **PintOS** | C | OS Clock, Thread Scheduler, User Programs |
 
 ---
 
-## 🏆 Certifications
-
-- ✅ **Machine Learning: Regression and Classification** – Coursera
-- ✅ **Deep Learning Specialization – Coursera**
-  - [Neural Networks and Deep Learning](https://coursera.org/verify/4AH5SDGG3RDK)
-  - [Improving Deep Neural Networks](https://coursera.org/verify/5Z58DAPYERQL)
-  - [Structuring Machine Learning Projects](https://coursera.org/verify/RFTQTHHFWUD6)
-  - [Convolutional Neural Networks](https://coursera.org/verify/IOWWXRKG8T4C)
-  - [Sequence Models](https://coursera.org/verify/A4009EYIQUJK)
-- ✅ **ICPC Certificate of Achievement** (2022 & 2023) - ECPC Qualification
-- ✅ **D.A.L.F Niveau C1** – French Proficiency Certificate
+## 📚 Relevant Coursework
+✔️ Software Engineering  
+✔️ Data Structures & Algorithms  
+✔️ AI & Machine Learning  
+✔️ Operating Systems  
+✔️ Computer Networks  
+✔️ Advanced OOP
 
 ---
 
-## 🚀 GitHub Stats
+## 🗂️ Assignments & Mini Projects
 
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrick-Geo7&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Geo7&layout=compact&theme=radical)
+✨ **Hands-on tasks that shaped my learning journey** ✨
+
+| 🔨 Assignment | 🖥️ Tech | 🔍 Focus |
+|--------------|--------|---------|
+| **Lexical Analyzer Generator** | C++ | NFA/DFA, Tokenization, Regex Parser |
+| **Blockchain Proof of Work Puzzle** | Java | Hashing (SHA-256), Mining Logic |
+| **Sentiment Analysis on SST-2 Dataset** | Python, Sklearn | Logistic Regression, N-grams |
+| **Bi-gram Text Classifier** | Python | Multinomial Logistic Regression |
+| **Open-KBP Dataset Preprocessing** | Python | Dose Prediction for Radiotherapy |
+| **A/B Testing Proposal (Udacity NanoDegree)** | Google Analytics | Hypothesis Testing, Experiment Design |
+| **Automata Classes for Compiler Design** | C++ | DFA/NFA Merging, Compiler Core |
+| **Java Hash-based PoW Solver** | Java | Puzzle Solving, Blockchain Basics |
+
+---
+
+## 🏅 Certifications
+- ✅ [Deep Learning Specialization](https://coursera.org/verify/4AH5SDGG3RDK)
+- ✅ [Neural Networks and Deep Learning](https://coursera.org/verify/4AH5SDGG3RDK)
+- ✅ [Improving Deep Neural Networks](https://coursera.org/verify/5Z58DAPYERQL)
+- ✅ [Structuring ML Projects](https://coursera.org/verify/RFTQTHHFWUD6)
+- ✅ [Convolutional Neural Networks](https://coursera.org/verify/IOWWXRKG8T4C)
+- ✅ [Sequence Models](https://coursera.org/verify/A4009EYIQUJK)
+- ✅ **ICPC Certificate of Achievement** (2022 & 2023)
+- ✅ **D.A.L.F Niveau C1 (French Language)**
+
+---
+
+## 🌱 I’m currently learning
+- Vision Transformers for Dose Prediction
+- Blockchain Fundamentals
+- Designing Data Intensive Applications
+- Design of Distributed Systems
+- Computers and Network Security Fundamentals
+- Information Theory
+---
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/Patrick-Geo7/Patrick-Geo7/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🤝 Let's Connect!
 
-I'm always open to collaborations, research, and new opportunities.  
-Reach out via [LinkedIn](https://linkedin.com/in/patrick-georges) or [Email](mailto:patrick.georges18@gmail.com)
+📩 **Email:** [patrick.georges18@gmail.com](mailto:patrick.georges18@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/patrick-georges](https://linkedin.com/in/patrick-georges)  
+💻 **GitHub:** [github.com/Patrick-Geo7](https://github.com/Patrick-Geo7)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Patrick-Geo7&label=Profile%20views&color=0e75b6&style=flat" alt="Patrick-Geo7" />
+</p>
