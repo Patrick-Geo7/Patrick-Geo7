@@ -113,7 +113,8 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Patrick-Geo7/Patrick-Geo7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Patrick-Geo7/Patrick-Geo7/output/github-contribution-grid-snake.svg)
+
 
 ---
 
