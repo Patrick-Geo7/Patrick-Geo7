@@ -60,44 +60,56 @@ Educational operating system project focused on thread scheduling and user progr
 ---
 ## 💾 Useful Assignments & Mini Projects
 
-While these tasks may not qualify as large-scale projects, they reflect my hands-on experience across various fields and strengthened my core knowledge.
+While these tasks may not qualify as full-scale projects, they reflect my practical experience and continuous learning across various computer science domains.
 
-### 🔧 Systems Programming & Compilers
+### 🔧 Systems Programming, Compilers & Automata
 - **Lexical Analyzer Generator (C++)**  
-  Built a lexical analyzer from scratch using Automata Theory and Finite State Machines.
-- **Basic OS Scheduler Simulation (C++)**  
-  Simulated CPU scheduling algorithms like Round Robin and Priority Scheduling.
-- **Multithreaded Web Crawler (Java)**  
-  Developed a simple web crawler handling concurrency and synchronization.
+  Built a Lexical Analyzer from scratch using NFA/DFA and automata theory. Parsed regular expressions and tokenized input programs.
+- **Automata and State Classes Design (C++)**  
+  Designed modular `Automata.cpp` and `State.cpp` classes for compiler construction.
+- **OS Scheduler Simulation (C++)**  
+  Simulated various CPU scheduling algorithms such as Round Robin, SJF, and Priority Scheduling.
+- **Multi-threaded Web Crawler (Java)**  
+  Implemented a basic web crawler handling threads and synchronization.
 
-### 🔗 Blockchain & Security
-- **Blockchain Proof-of-Work Simulation (Java)**  
-  Implemented a simplified blockchain model with hash-based proof-of-work and transaction verification.
+### 🔗 Blockchain & Computer Security
+- **Blockchain Proof-of-Work Puzzle (Java)**  
+  Implemented a simple hash-based Proof-of-Work puzzle validating transactions and simulating blockchain behavior.
+- **BlockNode and Blockchain Data Structures (Java)**  
+  Developed core classes managing blocks and transactions as part of blockchain fundamentals.
 
-### 📊 Machine Learning & Data Science
-- **Naive Bayes Sentiment Analysis (Python)**  
-  Built a sentiment classifier using Naive Bayes on the Stanford Sentiment Treebank v2 (SST-2).
-- **Logistic Regression with N-Gram Features (Python)**  
-  Created a multinomial text classifier using bi-gram sparse vector representations.
+### 📊 Machine Learning, NLP & Data Science
+- **Naive Bayes Sentiment Classifier (Python)**  
+  Built a sentiment analysis model using Naive Bayes on the Stanford Sentiment Treebank v2 (SST-2).
+- **Logistic Regression with Bi-gram Features (Python)**  
+  Implemented multinomial logistic regression using sparse vectors from bi-grams for sentiment classification.
+- **DenseNet121 for Breast Cancer Classification (Python, TensorFlow)**  
+  Designed and fine-tuned a deep learning model (DenseNet121) for histopathological image classification.
+- **ML Hyperparameter Tuning Assignment**  
+  Tuned learning rates, optimizers, and dropout rates to improve model accuracy based on research papers.
 
 ### 🗄️ Databases & SQL
-- **University Database Design Assignment (SQL)**  
-  Designed a relational database schema and wrote complex SQL queries for academic operations.
+- **University Database Schema Design (SQL)**  
+  Created entity-relationship diagrams and SQL queries for university academic management.
 
 ### 📈 Digital Marketing & Analytics
-- **A/B Test Proposal for Google Merchandise Store**  
-  Designed a complete A/B testing plan including KPIs, hypothesis testing, and expected outcomes as part of the Digital Marketing Nanodegree.
+- **Google Merchandise Store A/B Test Proposal**  
+  Created a comprehensive A/B testing plan with KPIs and hypothesis testing for Udacity's Digital Marketing Nanodegree.
+- **Google Analytics Assignment**  
+  Analyzed user behavior and conversion metrics on the Google Merchandise Store demo account.
 
 ---
 
-These assignments reinforced my skills in:  
-✅ Compilers & Automata  
-✅ Operating Systems fundamentals  
-✅ Blockchain concepts  
-✅ Machine Learning algorithms  
-✅ Database design & querying  
-✅ Digital Marketing analytics  
-✅ Multithreading and concurrency
+These assignments strengthened my skills in:  
+✅ Compilers & Automata Theory  
+✅ Operating Systems & Scheduling  
+✅ Blockchain & Cryptography Fundamentals  
+✅ Machine Learning & Deep Learning  
+✅ Natural Language Processing (NLP)  
+✅ Database Design & Querying  
+✅ RESTful APIs & Frontend Development  
+✅ Digital Marketing Analytics  
+✅ Multithreading & Synchronization
 
 ---
 
