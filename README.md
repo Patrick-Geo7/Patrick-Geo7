@@ -11,15 +11,13 @@
 
 ## 📍 About Me
 
-🎓 **Computer & Systems Engineering Student**  
-💻 **Alexandria University, Egypt** | Graduating **2025**  
+🎓 **Software Engineer**  
+💻 **Alexandria University, Egypt** | Graduated **2025**  
 🔬 Passionate about Software Engineering, AI, and Systems Programming  
-🏆 Coding Competitions: **ECPC Participant (2022 & 2023)**
-
 ---
 
 ## 💼 Technical Stack
-
+![Go]([https://img.shields.io/badge/Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge))
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
